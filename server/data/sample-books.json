@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "genre": "Science Fiction",
+    "reviews": [
+      { "user": "Alice", "rating": 5, "comment": "A classic masterpiece." }
+    ]
+  },
+  {
+    "title": "The Hobbit",
+    "author": "J. R. R. Tolkien",
+    "genre": "Fantasy",
+    "reviews": []
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "genre": "Romance",
+    "reviews": [
+      { "user": "Grace", "rating": 5, "comment": "Sharp and delightful." }
+    ]
+  },
+  {
+    "title": "The Martian",
+    "author": "Andy Weir",
+    "genre": "Science Fiction",
+    "reviews": []
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": "Fiction",
+    "reviews": [
+      { "user": "Sam", "rating": 4, "comment": "Powerful and memorable." }
+    ]
+  }
+]

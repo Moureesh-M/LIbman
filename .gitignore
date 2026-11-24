@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+.env.local
+.env.*.local
+server/data/*.db
+server/data/*.sqlite
+server/data/*.sqlite3
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
